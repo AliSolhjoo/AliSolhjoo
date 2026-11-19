@@ -21,23 +21,23 @@
 
 <a id="about"></a>
 
-## 01 / The person behind the code
+## 01 / About me
 
-I'm **Ali Solhjoo** — a Python-focused software developer, AI and computer vision engineer, Django developer, and programming instructor.
+I'm **Ali Solhjoo**, a Python-focused Software Engineer working across **backend development, applied AI, computer vision, and automation**. I enjoy turning real-world problems into practical software — from Django-powered web applications and backend systems to intelligent features that make products more useful.
 
-I work where **software engineering meets intelligent systems**. I enjoy building practical applications, exploring how machines interpret visual information, and turning complex ideas into tools people can actually use.
+My engineering approach combines problem-solving with hands-on execution: understanding the requirement, choosing a sensible technical direction, building and refining the solution, and keeping the result clear, maintainable, and useful.
 
-My approach is simple: understand the problem, build the smallest useful solution, improve it with care, and share what I learn.
+Alongside software development, I'm a **programming instructor**. I teach Python, Django, and Artificial Intelligence through clear explanations and project-based learning, helping students move beyond syntax and learn how to build things independently.
 
 <table>
   <tr>
     <td align="center" width="33%">
       <strong>4+ years</strong><br/>
-      <sub>Programming experience</sub>
+      <sub>Programming &amp; software development</sub>
     </td>
     <td align="center" width="33%">
       <strong>2+ years</strong><br/>
-      <sub>Teaching experience</sub>
+      <sub>Technical teaching experience</sub>
     </td>
     <td align="center" width="33%">
       <strong>300+ learners</strong><br/>
@@ -45,6 +45,14 @@ My approach is simple: understand the problem, build the smallest useful solutio
     </td>
   </tr>
 </table>
+
+**What I bring to a team or project**
+- **Backend &amp; product engineering:** Python, Django, web applications, and practical software architecture.
+- **Applied AI &amp; computer vision:** building and integrating intelligent capabilities into real applications.
+- **Automation &amp; integration:** Python tools and workflows that reduce repetitive work.
+- **Technical education:** teaching complex concepts through structured, hands-on projects.
+
+I'm especially interested in **meaningful software engineering opportunities, applied AI projects, freelance collaborations, and remote or international teams**.
 
 <a id="focus"></a>
 
@@ -375,21 +383,30 @@ I don't just want to show how code works — I want learners to understand *why*
 
 <a id="connect"></a>
 
-## 07 / Let's build something useful
+## 07 / Let's work together
 
-I'm open to meaningful conversations and collaborations around **Python, Django, applied AI, computer vision, automation, and programming education**.
+I'm open to connecting with **engineering teams, founders, clients, educators, and fellow developers** who value thoughtful problem-solving and useful software.
 
-The best projects start with a clear problem and people who care about solving it well.
+### Areas I'm open to
+
+- **Software engineering roles** — Python, Django, backend development, and product engineering.
+- **AI &amp; computer vision projects** — practical intelligent features, visual processing, and AI-powered applications.
+- **Freelance &amp; technical partnerships** — building web products, automations, and custom software around real business needs.
+- **Teaching &amp; knowledge sharing** — Python, Django, AI, workshops, and project-based learning.
+
+### Start here
+
+The best way to understand how I work is to explore my public projects and the code behind them. For a project or role discussion, include a short introduction, the problem you're working on, and the kind of collaboration you have in mind.
 
 <div align="center">
   <a href="https://github.com/AliSolhjoo">
-    <img src="https://img.shields.io/badge/GitHub-Connect%20with%20me-181717?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-View%20my%20profile-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Ali Solhjoo on GitHub"/>
   </a>
   <a href="https://github.com/AliSolhjoo?tab=repositories">
-    <img src="https://img.shields.io/badge/Portfolio-Browse%20public%20projects-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="Browse public projects"/>
+    <img src="https://img.shields.io/badge/Projects-Explore%20my%20work-0E7490?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore public projects"/>
   </a>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=AliSolhjoo&style=flat&color=607D78&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=AliSolhjoo&amp;style=flat&amp;color=607D78&amp;label=PROFILE+VIEWS" alt="Profile views"/>
   <br/><br/>
-  <sub>Designed with intention. Built with code. Improved one commit at a time.</sub>
+  <sub>Open to thoughtful conversations, ambitious ideas, and opportunities to build useful things together.</sub>
 </div>
