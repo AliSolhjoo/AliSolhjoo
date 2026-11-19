@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-labelledby="title desc">
+  <title id="title">Ali Solhjoo's technology ecosystem</title>
+  <desc id="desc">A five-part map of backend engineering, data and scientific Python, computer vision and AI, automation, and desktop and connected systems.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1015"/><stop offset="1" stop-color="#14212A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#B8F36B"/><stop offset=".5" stop-color="#66D9C8"/><stop offset="1" stop-color="#66B7F2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1500" height="500" rx="22" fill="url(#bg)"/>
+  <g fill="none" stroke="#8CA8A5" stroke-opacity=".18">
+    <path d="M40 105H1460M40 445H1460"/>
+    <rect x="24" y="24" width="1452" height="452" rx="18"/>
+  </g>
+  <text x="55" y="66" fill="#B8F36B" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="3">THE TOOLKIT MAP</text>
+  <text x="1445" y="66" text-anchor="end" fill="#8EA3A6" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="2">PYTHON-FIRST · MULTIDISCIPLINARY</text>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <g transform="translate(48 128)">
+      <rect width="264" height="280" rx="14" fill="#FFFFFF" fill-opacity=".035" stroke="#B8F36B" stroke-opacity=".55"/>
+      <rect width="264" height="5" rx="2.5" fill="#B8F36B"/>
+      <text x="22" y="44" fill="#B8F36B" font-size="13" font-weight="700" letter-spacing="2">01 / BACKEND</text>
+      <text x="22" y="88" fill="#F0F5F1" font-size="27" font-weight="700">Build</text>
+      <text x="22" y="136" fill="#C7D6D1" font-size="17">Python · Django</text>
+      <text x="22" y="168" fill="#C7D6D1" font-size="17">JavaScript · PHP</text>
+      <text x="22" y="200" fill="#C7D6D1" font-size="17">SQL · SQLite</text>
+      <text x="22" y="247" fill="#82969A" font-size="13">Web apps &amp; data models</text>
+    </g>
+    <g transform="translate(342 128)">
+      <rect width="264" height="280" rx="14" fill="#FFFFFF" fill-opacity=".035" stroke="#66D9C8" stroke-opacity=".55"/>
+      <rect width="264" height="5" rx="2.5" fill="#66D9C8"/>
+      <text x="22" y="44" fill="#66D9C8" font-size="13" font-weight="700" letter-spacing="2">02 / DATA</text>
+      <text x="22" y="88" fill="#F0F5F1" font-size="27" font-weight="700">Analyze</text>
+      <text x="22" y="136" fill="#C7D6D1" font-size="17">NumPy · SciPy</text>
+      <text x="22" y="168" fill="#C7D6D1" font-size="17">Pandas · Matplotlib</text>
+      <text x="22" y="200" fill="#C7D6D1" font-size="17">Seaborn · Plotly</text>
+      <text x="22" y="247" fill="#82969A" font-size="13">Scientific Python ecosystem</text>
+    </g>
+    <g transform="translate(636 128)">
+      <rect width="264" height="280" rx="14" fill="#FFFFFF" fill-opacity=".035" stroke="#66B7F2" stroke-opacity=".55"/>
+      <rect width="264" height="5" rx="2.5" fill="#66B7F2"/>
+      <text x="22" y="44" fill="#66B7F2" font-size="13" font-weight="700" letter-spacing="2">03 / INTELLIGENCE</text>
+      <text x="22" y="88" fill="#F0F5F1" font-size="27" font-weight="700">Perceive</text>
+      <text x="22" y="136" fill="#C7D6D1" font-size="17">OpenCV · Pillow</text>
+      <text x="22" y="168" fill="#C7D6D1" font-size="17">scikit-learn · PyTorch</text>
+      <text x="22" y="200" fill="#C7D6D1" font-size="17">TensorFlow · Keras</text>
+      <text x="22" y="247" fill="#82969A" font-size="13">Computer vision &amp; ML</text>
+    </g>
+    <g transform="translate(930 128)">
+      <rect width="264" height="280" rx="14" fill="#FFFFFF" fill-opacity=".035" stroke="#B8F36B" stroke-opacity=".42"/>
+      <rect width="264" height="5" rx="2.5" fill="#B8F36B" fill-opacity=".8"/>
+      <text x="22" y="44" fill="#B8F36B" font-size="13" font-weight="700" letter-spacing="2">04 / AUTOMATION</text>
+      <text x="22" y="88" fill="#F0F5F1" font-size="27" font-weight="700">Orchestrate</text>
+      <text x="22" y="136" fill="#C7D6D1" font-size="17">Requests · Selenium</text>
+      <text x="22" y="168" fill="#C7D6D1" font-size="17">Playwright · PyAutoGUI</text>
+      <text x="22" y="200" fill="#C7D6D1" font-size="17">BeautifulSoup · pytest</text>
+      <text x="22" y="247" fill="#82969A" font-size="13">Web &amp; desktop automation</text>
+    </g>
+    <g transform="translate(1224 128)">
+      <rect width="228" height="280" rx="14" fill="#FFFFFF" fill-opacity=".035" stroke="#66D9C8" stroke-opacity=".42"/>
+      <rect width="228" height="5" rx="2.5" fill="#66D9C8" fill-opacity=".8"/>
+      <text x="20" y="44" fill="#66D9C8" font-size="13" font-weight="700" letter-spacing="2">05 / CONNECTED</text>
+      <text x="20" y="88" fill="#F0F5F1" font-size="27" font-weight="700">Integrate</text>
+      <text x="20" y="136" fill="#C7D6D1" font-size="17">Tkinter · Kivy</text>
+      <text x="20" y="168" fill="#C7D6D1" font-size="17">Vosk · MQTT</text>
+      <text x="20" y="200" fill="#C7D6D1" font-size="17">SQLite · APIs</text>
+      <text x="20" y="247" fill="#82969A" font-size="13">Desktop &amp; smart systems</text>
+    </g>
+  </g>
+  <path d="M312 268H342M606 268H636M900 268H930M1194 268H1224" stroke="url(#accent)" stroke-width="2"/>
+  <circle cx="327" cy="268" r="4" fill="#B8F36B"/><circle cx="621" cy="268" r="4" fill="#66D9C8"/><circle cx="915" cy="268" r="4" fill="#66B7F2"/><circle cx="1209" cy="268" r="4" fill="#66D9C8"/>
+  <text x="750" y="455" fill="#80949A" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2">CORE EXPERIENCE FIRST · ECOSYSTEM KNOWLEDGE KEEPS EXPANDING</text>
+</svg>
