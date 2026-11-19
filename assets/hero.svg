@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="590" viewBox="0 0 1600 590" role="img" aria-labelledby="title desc">
+  <title id="title">Ali Solhjoo — Python, AI and Computer Vision</title>
+  <desc id="desc">A dark editorial technology banner with a luminous orbital network and the message: build software that sees, thinks and works.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1015"/>
+      <stop offset=".58" stop-color="#111A20"/>
+      <stop offset="1" stop-color="#101827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#B8F36B"/>
+      <stop offset=".52" stop-color="#66D9C8"/>
+      <stop offset="1" stop-color="#66B7F2"/>
+    </linearGradient>
+    <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#B8F36B" stop-opacity=".20"/>
+      <stop offset=".55" stop-color="#66D9C8" stop-opacity=".13"/>
+      <stop offset="1" stop-color="#66B7F2" stop-opacity=".03"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#A9C4C6" stroke-opacity=".075" stroke-width="1"/>
+      <circle cx="0" cy="0" r="1.4" fill="#B8F36B" fill-opacity=".20"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="590" rx="26" fill="url(#bg)"/>
+  <rect width="1600" height="590" rx="26" fill="url(#grid)"/>
+  <path d="M0 472H1600" stroke="#D5E5DF" stroke-opacity=".10"/>
+  <path d="M0 0H1600" stroke="#D5E5DF" stroke-opacity=".10"/>
+  <rect x="54" y="48" width="5" height="48" rx="2.5" fill="url(#accent)"/>
+  <text x="78" y="68" fill="#B8F36B" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3.2">INDEPENDENT SOFTWARE ENGINEER</text>
+  <text x="78" y="94" fill="#8FA1A7" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2.3">PYTHON  /  APPLIED AI  /  COMPUTER VISION</text>
+
+  <text x="76" y="230" fill="#F2F5F0" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="800" letter-spacing="-3">ALI SOLHJOO</text>
+  <rect x="80" y="260" width="118" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="78" y="330" fill="#E7EFEB" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="600">I build software that sees, thinks,</text>
+  <text x="78" y="372" fill="#E7EFEB" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="600">and turns ideas into useful systems.</text>
+  <text x="80" y="423" fill="#9EAFB3" font-family="Arial, Helvetica, sans-serif" font-size="17">Python Developer  ·  AI &amp; Computer Vision Engineer  ·  Django Developer</text>
+
+  <g transform="translate(1250 292)">
+    <circle r="218" fill="url(#orb)"/>
+    <circle r="190" fill="none" stroke="#B8F36B" stroke-opacity=".23" stroke-width="1.2"/>
+    <circle r="151" fill="none" stroke="#66D9C8" stroke-opacity=".25" stroke-width="1.2" stroke-dasharray="3 10"/>
+    <circle r="112" fill="none" stroke="#66B7F2" stroke-opacity=".30" stroke-width="1.5"/>
+    <ellipse rx="190" ry="76" fill="none" stroke="#B8F36B" stroke-opacity=".42" stroke-width="1.5" transform="rotate(-33)"/>
+    <ellipse rx="190" ry="76" fill="none" stroke="#66B7F2" stroke-opacity=".38" stroke-width="1.5" transform="rotate(57)"/>
+    <path d="M-185 0H185M0 -185V185" stroke="#C7D8D3" stroke-opacity=".17"/>
+    <path d="M-132 -132L132 132M-132 132L132 -132" stroke="#C7D8D3" stroke-opacity=".10"/>
+    <circle r="78" fill="#0B1116" stroke="url(#accent)" stroke-width="2"/>
+    <circle r="67" fill="none" stroke="#DCE9E3" stroke-opacity=".12"/>
+    <text x="0" y="19" text-anchor="middle" fill="#F2F5F0" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800" letter-spacing="-3">AS</text>
+    <circle cx="0" cy="-190" r="7" fill="#B8F36B"/>
+    <circle cx="190" cy="0" r="6" fill="#66D9C8"/>
+    <circle cx="0" cy="190" r="7" fill="#66B7F2"/>
+    <circle cx="-190" cy="0" r="5" fill="#B8F36B"/>
+    <circle cx="132" cy="-132" r="4" fill="#DDE8E2"/>
+    <circle cx="-132" cy="132" r="4" fill="#DDE8E2"/>
+  </g>
+
+  <g transform="translate(78 520)">
+    <rect width="1444" height="42" rx="9" fill="#FFFFFF" fill-opacity=".035" stroke="#C6D9D2" stroke-opacity=".12"/>
+    <circle cx="22" cy="21" r="4" fill="#B8F36B"/>
+    <text x="39" y="26" fill="#D9E4DE" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2">BUILD WITH PURPOSE</text>
+    <path d="M280 11V31" stroke="#C6D9D2" stroke-opacity=".22"/>
+    <circle cx="310" cy="21" r="4" fill="#66D9C8"/>
+    <text x="327" y="26" fill="#D9E4DE" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2">TEACH WITH CLARITY</text>
+    <path d="M610 11V31" stroke="#C6D9D2" stroke-opacity=".22"/>
+    <circle cx="640" cy="21" r="4" fill="#66B7F2"/>
+    <text x="657" y="26" fill="#D9E4DE" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2">KEEP EXPLORING</text>
+    <text x="1410" y="26" text-anchor="end" fill="#71848A" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="2">EST. IN CODE</text>
+  </g>
+</svg>
