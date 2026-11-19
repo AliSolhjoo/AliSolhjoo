@@ -129,36 +129,101 @@ A few public repositories that show how I explore software — from computer vis
 
 <a id="toolkit"></a>
 
-## 04 / Toolkit
+## 04 / Toolkit & technical ecosystem
 
-The tools I use most often across development, applied AI, and teaching.
+A Python-first toolkit spanning backend development, applied AI, computer vision, automation, and connected applications. I keep the core stack visible and group the wider ecosystem separately so the page stays useful rather than becoming a wall of badges.
 
-**Languages &amp; web**
+<div align="center">
+  <img src="assets/toolkit-map.svg" width="100%" alt="A visual map of Ali Solhjoo's backend, data, AI, automation, and connected-systems toolkit."/>
+</div>
+
+### Languages & web foundations
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-**Frameworks, AI &amp; data**
+### Hands-on frameworks, libraries & tools
+
+| Area | Technologies |
+|---|---|
+| Backend & application development | <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/> |
+| Scientific Python | <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=111111" alt="SciPy"/> |
+| Computer vision | <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/> <img src="https://img.shields.io/badge/imutils-34495E?style=flat-square" alt="imutils"/> |
+| Desktop interfaces | <img src="https://img.shields.io/badge/Tkinter-2F6F68?style=flat-square" alt="Tkinter"/> <img src="https://img.shields.io/badge/Kivy-4B8BBE?style=flat-square" alt="Kivy"/> |
+| Browser & desktop automation | <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/> <img src="https://img.shields.io/badge/PyAutoGUI-34495E?style=flat-square" alt="PyAutoGUI"/> |
+| Speech & connected systems | <img src="https://img.shields.io/badge/Vosk-1F6FEB?style=flat-square" alt="Vosk"/> <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white" alt="MQTT"/> |
+
+### Python standard library
+
+A practical foundation for scripting, application logic, files, and automation:
 
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=111111" alt="SciPy"/>
-  <img src="https://img.shields.io/badge/Tkinter-2F6F68?style=for-the-badge" alt="Tkinter"/>
+  <code>os</code> · <code>sys</code> · <code>pathlib</code> · <code>json</code> · <code>re</code> · <code>datetime</code> · <code>sqlite3</code> · <code>logging</code> · <code>subprocess</code> · <code>threading</code> · <code>collections</code>
 </p>
 
-**Developer workflow**
+<details>
+  <summary><strong>Explore the wider Python ecosystem</strong> — data, AI, APIs, automation & testing</summary>
+
+  <p><sub>A broader technology map for continued learning and experimentation. Depth varies by package; the strongest hands-on emphasis remains Python, Django, scientific Python, computer vision, and automation.</sub></p>
+
+  **Data analysis & visualization**
+
+  <p>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
+    <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn"/>
+    <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
+    <img src="https://img.shields.io/badge/Pillow-7D8B99?style=flat-square" alt="Pillow"/>
+  </p>
+
+  **Machine learning & deep learning**
+
+  <p>
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+    <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
+    <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=111111" alt="Hugging Face Transformers"/>
+    <img src="https://img.shields.io/badge/Ultralytics_YOLO-111F68?style=flat-square" alt="Ultralytics YOLO"/>
+  </p>
+
+  **Backend, APIs & data access**
+
+  <p>
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+    <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square" alt="Django REST Framework"/>
+    <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square" alt="SQLAlchemy"/>
+    <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square" alt="Pydantic"/>
+    <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery"/>
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+  </p>
+
+  **HTTP, scraping & automation**
+
+  <p>
+    <img src="https://img.shields.io/badge/Requests-2C5BB4?style=flat-square" alt="Requests"/>
+    <img src="https://img.shields.io/badge/BeautifulSoup-59666C?style=flat-square" alt="BeautifulSoup"/>
+    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
+    <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest"/>
+  </p>
+
+</details>
+
+**Development workflow**
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
+
+---
 
 <a id="teaching"></a>
 
