@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="250" viewBox="0 0 1500 250" role="img" aria-labelledby="title desc">
+  <title id="title">Build, teach, explore</title>
+  <desc id="desc">Three connected principles: build useful software, teach what you learn, and keep exploring new ideas.</desc>
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#B8F36B"/>
+      <stop offset=".5" stop-color="#66D9C8"/>
+      <stop offset="1" stop-color="#66B7F2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1500" height="250" rx="20" fill="#0E141A"/>
+  <g fill="none" stroke="#9CB4B2" stroke-opacity=".20">
+    <rect x="14" y="14" width="472" height="222" rx="14"/>
+    <rect x="514" y="14" width="472" height="222" rx="14"/>
+    <rect x="1014" y="14" width="472" height="222" rx="14"/>
+  </g>
+  <path d="M486 125H514M986 125H1014" stroke="url(#line)" stroke-width="2"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="48" y="59" fill="#B8F36B" font-size="13" font-weight="700" letter-spacing="3">01 / ENGINEER</text>
+    <text x="48" y="126" fill="#F1F5F1" font-size="42" font-weight="800" letter-spacing="-1">BUILD</text>
+    <text x="48" y="164" fill="#9EAFB3" font-size="17">Turn real problems into</text>
+    <text x="48" y="190" fill="#9EAFB3" font-size="17">useful, reliable software.</text>
+
+    <text x="548" y="59" fill="#66D9C8" font-size="13" font-weight="700" letter-spacing="3">02 / SHARE</text>
+    <text x="548" y="126" fill="#F1F5F1" font-size="42" font-weight="800" letter-spacing="-1">TEACH</text>
+    <text x="548" y="164" fill="#9EAFB3" font-size="17">Make difficult concepts</text>
+    <text x="548" y="190" fill="#9EAFB3" font-size="17">clear through practice.</text>
+
+    <text x="1048" y="59" fill="#66B7F2" font-size="13" font-weight="700" letter-spacing="3">03 / DISCOVER</text>
+    <text x="1048" y="126" fill="#F1F5F1" font-size="42" font-weight="800" letter-spacing="-1">EXPLORE</text>
+    <text x="1048" y="164" fill="#9EAFB3" font-size="17">Stay curious. Test ideas.</text>
+    <text x="1048" y="190" fill="#9EAFB3" font-size="17">Keep getting better.</text>
+  </g>
+  <g fill="none" stroke="url(#line)" stroke-width="2">
+    <path d="M442 42l16 0m-8 -8l8 8 -8 8"/>
+    <path d="M942 42l16 0m-8 -8l8 8 -8 8"/>
+  </g>
+</svg>
