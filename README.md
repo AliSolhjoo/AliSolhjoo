@@ -251,7 +251,7 @@ A broad map of popular programming languages, frameworks, libraries, databases, 
   <img src="https://img.shields.io/badge/Unittest-3776AB?style=flat-square" alt="unittest"/>
   <img src="https://img.shields.io/badge/Robot_Framework-000000?style=flat-square" alt="Robot Framework"/>
   <img src="https://img.shields.io/badge/python--telegram--bot-26A5E4?style=flat-square" alt="python-telegram-bot"/>
-  <img src="https://img.shields.io/badge/ aiogram-2CA5E0?style=flat-square" alt="aiogram"/>
+  <img src="https://img.shields.io/badge/aiogram-2CA5E0?style=flat-square" alt="aiogram"/>
 </p>
 
 **Desktop, mobile, speech & GUI**
@@ -299,7 +299,7 @@ A broad map of popular programming languages, frameworks, libraries, databases, 
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony"/>
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white" alt="Ruby on Rails"/>
-  <img src="https://img.shields.io/badge/ Gin-008ECF?style=flat-square" alt="Gin"/>
+  <img src="https://img.shields.io/badge/Gin-008ECF?style=flat-square" alt="Gin"/>
   <img src="https://img.shields.io/badge/Actix-000000?style=flat-square" alt="Actix"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
